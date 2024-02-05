@@ -1,0 +1,6 @@
+import ch.qos.logback.classic.jmx.JMXConfigurator;
+public class FunctionUse493 {
+public void funcUse() {
+JMXConfigurator jmxconfigurator = new JMXConfigurator();
+}
+}
